@@ -1,1 +1,1 @@
-Url shortener with Node.js, Express and Mongodb.
+Url shortener with node.js, express and moongose.
